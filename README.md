@@ -38,12 +38,11 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=salmento&show_icons=true&hide_border=true" />
-
-</details>
+<div align="left">
+  <a href="https://github.com/adildulobu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adildulobu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adildulobu&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 [instagram]: https://www.instagram.com/salmento_chitlango/
 [linkedin]: https://www.linkedin.com/in/salmento/
